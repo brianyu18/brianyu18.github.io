@@ -42,7 +42,7 @@ class ProShow extends Component {
                 </li>
                 <li class="uk-width-3-4">
                     <div class="uk-cover-container uk-transition-toggle">
-                      <img src="pictures/beatxmanix.gif" alt="" data-uk-cover/>
+                      <img src="pictures/beatxmaniax.gif" alt="" data-uk-cover/>
                       <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
                           <h3 class="uk-margin-remove">BEATXMANIAX</h3>
                       </div>
