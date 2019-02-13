@@ -1,0 +1,20 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1054px" height="304px" viewBox="0 0 1054 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIGHT">
+            <g id="Group">
+                <g id="Group-2">
+                    <path id="Rectangle" fill="#152239" width="1054" height="304" d="M0 0 L1054 0 L1054 304 L0 304 Z" class="VxBsfztJ_0"></path>
+                    <text id="TECHNOLOGY" stroke="#33466B" fill="#FFFFFF" font-family="Phosphate-Inline, Phosphate" font-size="165" font-weight="normal">
+                        <tspan x="43.6325" y="190">TECHNOLOGY</tspan>
+                    </text>
+                    <path d="M41,225.5 L1016,225.5" id="Path-2" stroke="#FFFFFF" stroke-width="10" fill="#FFFFFF" class="VxBsfztJ_1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+<style data-made-with="vivus-instant">.VxBsfztJ_0{stroke-dasharray:2716 2718;stroke-dashoffset:2717;animation:VxBsfztJ_draw 2000ms ease 0ms forwards;}.VxBsfztJ_1{stroke-dasharray:975 977;stroke-dashoffset:976;animation:VxBsfztJ_draw 2000ms ease 500ms forwards;}@keyframes VxBsfztJ_draw{100%{stroke-dashoffset:0;}}@keyframes VxBsfztJ_fade{0%{stroke-opacity:1;}89.28571428571429%{stroke-opacity:1;}100%{stroke-opacity:0;}}
+</style></svg>
