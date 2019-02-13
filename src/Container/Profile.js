@@ -45,13 +45,11 @@ class Profile extends Component {
 
             <div style={{"zIndex":"2","marginLeft":"20%"}}class="uk-card uk-card-default uk-card-body uk-box-shadow-medium">
                 <h3 class="uk-card-title">Hi! I'm Brian...</h3>
-                <p>I'm a developer fascinated with all things design and UX.</p>
-                <p>Before I found my passion in CS, I was the Co-founder of a contracting company in the Bay Area,
-                as well as Project Manager in Finance. In each of these roles I've always held an
-                appreciation for design, which is what eventually brought me here: building apps with code-
-                instead of building buildings with 'tools.'</p>
-
-                <p>Outside of coding, my interests include: Culinary, Design, Architecture</p>
+                <p>I am a Full Stack Developer with a focus on innovative solutions to design and UX.</p>
+                <p>My profound appreciation for design and finite details is what drove me to development. Prior to finding my passion in CS - I was the Co-founder of a architectural and contracting company, 
+                designing and building in the Bay Area; as well as Project Manager in Finance overseeing web development at a corporate bank. 
+                </p>
+                <p>Outside of coding, my interests include: Culinary Arts, Design, Architecture</p>
           </div>
 
         </div>
