@@ -1,19 +1,19 @@
 [[redirects]]
-  from = "/github"
+  from = "https://github.com/brianyu18"
   to = "https://github.com/brianyu18"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
 
   [[redirects]]
-  from = "/instagram"
+  from = "https://www.instagram.com/foolcrcl/"
   to = "https://www.instagram.com/foolcrcl/"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
 
   [[redirects]]
-  from = "/linkedin"
+  from = "https://www.linkedin.com/in/brian-yu-68474126/"
   to = "https://www.linkedin.com/in/brian-yu-68474126/"
   status = 200
   force = true

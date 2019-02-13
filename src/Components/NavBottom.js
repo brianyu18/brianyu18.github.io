@@ -11,7 +11,7 @@ class NavBottom extends Component {
             <div class="uk-navbar-center">
               <ul class="uk-navbar-nav">
                 <li>
-                    <a href="/github">
+                    <a href="https://github.com/brianyu18">
                         <span class="uk-icon uk-margin-small-right" uk-icon="icon: github"></span>
                         GitHub
                     </a>
@@ -20,7 +20,7 @@ class NavBottom extends Component {
                   <a>/</a>
                 </li>
                 <li>
-                    <a href="/linkedin">
+                    <a href="https://www.linkedin.com/in/brian-yu-68474126/">
                         <span class="uk-icon uk-margin-small-right" uk-icon="icon: linkedin"></span>
                         LinkedIn
                     </a>
@@ -29,7 +29,7 @@ class NavBottom extends Component {
                   <a>/</a>
                 </li>
                 <li>
-                    <a href="/instagram">
+                    <a href="https://www.instagram.com/foolcrcl/">
                         <span class="uk-icon uk-margin-small-right" uk-icon="icon: instagram"></span>
                         INSTAGRAM
                     </a>
