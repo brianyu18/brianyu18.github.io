@@ -15,6 +15,37 @@ class ProShow extends Component {
         <div style={{"width":"100%","margin":"auto"}}>
         <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
 
+        {/*<ul class="uk-slideshow-items">
+            <li>
+                <img src="pictures/roadtrip.gif" alt="" data-uk-cover/>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">ROADTRIP</h3>
+                </div>
+            </li>
+            <li>
+                <img src="pictures/whitepaper.gif" alt="" data-uk-cover/>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Bottom</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="pictures/ESCPE.gif" alt="" data-uk-cover/>
+                <div class="uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-right uk-width-medium">
+                    <h3 class="uk-margin-remove">Left</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="pictures/beatxmaniax.gif" alt="" data-uk-cover/>
+                <div class="uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-right uk-width-medium">
+                    <h3 class="uk-margin-remove">Left</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+
+        </ul>*/}
+
             <ul class="uk-slider-items uk-grid uk-grid-match" uk-height-viewport="offset-top: true; offset-bottom: 30">
                 <li class="uk-width-3-4">
                     <div class="uk-cover-container uk-transition-toggle">
@@ -42,7 +73,7 @@ class ProShow extends Component {
                 </li>
                 <li class="uk-width-3-4">
                     <div class="uk-cover-container uk-transition-toggle">
-                      <img src="pictures/beatxmanix.gif" alt="" data-uk-cover/>
+                      <img src="pictures/beatxmaniax.gif" alt="" data-uk-cover/>
                       <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
                           <h3 class="uk-margin-remove">BEATXMANIAX</h3>
                       </div>

@@ -4,6 +4,7 @@ import {Doughnut} from 'react-chartjs-2';
 import Navbar from '../Components/Navbar'
 import ReactVivus from 'react-vivus';
 import rectangle from '../SVG/rectangle.svg'
+import hi from '../SVG/hi.svg'
 
 
 const data={
@@ -44,7 +45,8 @@ class Profile extends Component {
             <div class="uk-card uk-card-default uk-card-body uk-box-shadow-medium" style={{"marginLeft":"130px","position":"absolute","width":"400px","height":"50%","backgroundColor":"#79889c","marginTop":"30px","zIndex":"1"}}></div>
 
             <div style={{"zIndex":"2","marginLeft":"20%"}}class="uk-card uk-card-default uk-card-body uk-box-shadow-medium">
-                <h3 class="uk-card-title">Hi! I'm Brian...</h3>
+
+                <h3 class="uk-card-title"><h3>Hi!</h3> I'm Brian...</h3>
                 <p>I'm a developer fascinated with all things design and UX.</p>
                 <p>Before I found my passion in CS, I was the Co-founder of a contracting company in the Bay Area,
                 as well as Project Manager in Finance. In each of these roles I've always held an
