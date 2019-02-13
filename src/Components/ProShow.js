@@ -65,19 +65,19 @@ class ProShow extends Component {
                 </li>
                 <li class="uk-width-3-4">
                     <div class="uk-cover-container uk-transition-toggle">
-                        <img src="pictures/ESCPE.gif" alt="" data-uk-cover/>
-                        <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
-                            <h3 class="uk-margin-remove">ESCPE</h3>
-                        </div>
-                      </div>
-                </li>
-                <li class="uk-width-3-4">
-                    <div class="uk-cover-container uk-transition-toggle">
                       <img src="pictures/beatxmaniax.gif" alt="" data-uk-cover/>
                       <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
                           <h3 class="uk-margin-remove">BEATXMANIAX</h3>
                       </div>
                     </div>
+                </li>
+                <li class="uk-width-3-4">
+                    <div class="uk-cover-container uk-transition-toggle">
+                        <img src="pictures/ESCPE.gif" alt="" data-uk-cover/>
+                        <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                            <h3 class="uk-margin-remove">ESCPE</h3>
+                        </div>
+                      </div>
                 </li>
             </ul>
 
