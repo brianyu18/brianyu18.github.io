@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/media/left.a14b3482.svg"
   },
   {
-    "revision": "d1040773dfda8b80e522",
-    "url": "/brian-yu/static/css/main.9a83755f.chunk.css"
+    "revision": "3bd3d49bb65ee610088d",
+    "url": "/brian-yu/static/css/main.2487dd5b.chunk.css"
   },
   {
     "revision": "ad3c35b39e6e65a006ec16dc38de5384",
     "url": "/brian-yu/static/media/projecttitle.ad3c35b3.svg"
   },
   {
-    "revision": "0e83f090aba0b6f990a2",
-    "url": "/brian-yu/static/js/1.0e83f090.chunk.js"
+    "revision": "b3a7b580f92dbcdcdb08",
+    "url": "/brian-yu/static/js/1.b3a7b580.chunk.js"
   },
   {
     "revision": "5b00609461df64ba5467",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/media/skills.481053a1.svg"
   },
   {
-    "revision": "d1040773dfda8b80e522",
-    "url": "/brian-yu/static/js/main.d1040773.chunk.js"
+    "revision": "3bd3d49bb65ee610088d",
+    "url": "/brian-yu/static/js/main.3bd3d49b.chunk.js"
   },
   {
     "revision": "95c276cfbb0d34ba8dee43477511769b",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/media/ball2.eed46a7d.svg"
   },
   {
-    "revision": "0e83f090aba0b6f990a2",
-    "url": "/brian-yu/static/css/1.767a2d94.chunk.css"
+    "revision": "b3a7b580f92dbcdcdb08",
+    "url": "/brian-yu/static/css/1.38c2f712.chunk.css"
   },
   {
-    "revision": "13fd8964b5e5c40ba23372548e26c855",
+    "revision": "e647c82bca723245016175f9d1fbb42b",
     "url": "/brian-yu/index.html"
   }
 ];
