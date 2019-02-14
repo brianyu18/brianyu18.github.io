@@ -29,9 +29,22 @@ class Profile extends Component {
           <div className="skew"></div>
           <div className="skew2"></div>
         </div>*/}
-        
+        <div class="uk-flex uk-grid-collapse uk-child-width-expand@s uk-text-center" data-uk-grid>
+          <div class="uk-width-1-2">
+            <img src="pictures/me2.jpg" width="100%" height="100%" alt="" uk-img/>
+          </div>
+                <div style={{"zIndex":"2", "width":"50%"}}class="uk-width-1-2 uk-card uk-card-default uk-card-body uk-box-shadow-medium">
+                  <h3 class="uk-card-title">Hi! I'm Brian...</h3>
+                  <p>I am a Full Stack Developer with a focus on innovative solutions to design and UX.</p>
+                  <p>My profound appreciation for design and finite details is what drove me to development. Prior to finding my passion in CS - I was the Co-founder of a architectural and contracting company,
+                  designing and building in the Bay Area; as well as Project Manager in Finance overseeing web development at a corporate bank.
+                  </p>
+                  <p>Outside of coding, my interests include: Culinary Arts, Design, Architecture</p>
+                </div>
+          </div>
 
-        <div style={{"display":"flex"}} uk-scrollspy="cls: uk-animation-slide-left-small; target: > div > .uk-card; delay: 500; repeat: true">
+
+      {/*  <div style={{"display":"flex"}} uk-scrollspy="cls: uk-animation-slide-left-small; target: > div > .uk-card; delay: 500; repeat: true">
           <div style={{"width":"50%"}}>
             <div class="uk-card uk-card-default uk-card-body uk-box-shadow-medium" style={{"zIndex":"1","position":"absolute","width":"410px","height":"100%","backgroundColor":"#84a3ff"}}></div>
             <div
@@ -55,7 +68,7 @@ class Profile extends Component {
           </div>
 
         </div>
-      </div>
+      </div>*/}
     </div>
     );
   }
