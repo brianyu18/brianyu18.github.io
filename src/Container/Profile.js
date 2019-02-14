@@ -29,7 +29,6 @@ class Profile extends Component {
           <div className="skew"></div>
           <div className="skew2"></div>
         </div>*/}
-        
 
         <div style={{"display":"flex"}} uk-scrollspy="cls: uk-animation-slide-left-small; target: > div > .uk-card; delay: 500; repeat: true">
           <div style={{"width":"50%"}}>

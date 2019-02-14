@@ -47,12 +47,12 @@ class ProShow extends Component {
         </ul>*/}
 
             <ul class="uk-slider-items uk-grid uk-grid-match" uk-height-viewport="offset-top: true; offset-bottom: 30">
-                <li class="uk-width-3-4">
+                <li class="uk-width-3-4 ">
                     <div class="uk-cover-container uk-transition-toggle">
-                        <img src="pictures/roadtrip.gif" alt="" data-uk-cover/>
-                        <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
-                            <h3 class="uk-margin-remove">ROADTRIP</h3>
-                        </div>
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VRAkbfLuQ6Q?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen uk-cover></iframe>
+                      <div class="uk-overlay uk-overlay-primary uk-position-top uk-text-center uk-transition-slide-top">
+                        <h3 class="uk-margin-remove">ROADTRIP</h3>
+                      </div>
                     </div>
                 </li>
                 <li class="uk-width-3-4">
