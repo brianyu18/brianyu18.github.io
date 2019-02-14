@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/media/left.a14b3482.svg"
   },
   {
-    "revision": "ccae424a99a9d66b38c2",
+    "revision": "ae0d38583fac9402bdc3",
     "url": "/brian-yu/static/css/main.2487dd5b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/media/skills.481053a1.svg"
   },
   {
-    "revision": "ccae424a99a9d66b38c2",
-    "url": "/brian-yu/static/js/main.ccae424a.chunk.js"
+    "revision": "ae0d38583fac9402bdc3",
+    "url": "/brian-yu/static/js/main.ae0d3858.chunk.js"
   },
   {
     "revision": "95c276cfbb0d34ba8dee43477511769b",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/brian-yu/static/css/1.38c2f712.chunk.css"
   },
   {
-    "revision": "4e0e80a125b4d450a965a6e627f57f48",
+    "revision": "d1356af79165c11db10886acd95dcc7c",
     "url": "/brian-yu/index.html"
   }
 ];
