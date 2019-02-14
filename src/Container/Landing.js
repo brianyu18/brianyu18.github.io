@@ -17,8 +17,8 @@ class Landing extends Component {
   render() {
     return (
       <div style={{"width":"100%","height":"100vh","backgroundColor":"#152239", "textAlign":"center"}}>
-      <div class="uk-flex uk-grid-collapse uk-child-width-expand@s uk-text-center" data-uk-grid>
-        <div class="uk-width-1-6" style={{"position":"absolute", "borderColor":"0, 0, 0, 0", "marginTop":"230px", "marginLeft":"120px"}}>
+      <div class="uk-flex uk-flex-center uk-grid-collapse uk-child-width-expand@s uk-text-center" data-uk-grid-center>
+        <div class="uk-width-1-6" style={{"borderColor":"0, 0, 0, 0", "marginTop":"230px"}}>
         <ReactVivus
           id="left"
           option={{
@@ -28,7 +28,7 @@ class Landing extends Component {
           callback={console.log}
         />
         </div>
-        <div class="uk-width-1-6"style={{"position":"absolute", "borderColor":"0, 0, 0, 0", "marginTop":"230px", "marginLeft":"360px"}}>
+        <div class="uk-width-1-6"style={{"borderColor":"0, 0, 0, 0", "marginTop":"230px"}}>
         <a href='#about'>
         <ReactVivus
           id="profile"
@@ -40,7 +40,7 @@ class Landing extends Component {
         />
         </a>
         </div>
-        <div class="uk-width-1-6"style={{"position":"absolute", "borderColor":"0, 0, 0, 0", "marginTop":"230px", "marginLeft":"600px"}}>
+        <div class="uk-width-1-6"style={{"borderColor":"0, 0, 0, 0", "marginTop":"230px"}}>
         <a href='#projects'>
         <ReactVivus
           id="project"
@@ -52,7 +52,7 @@ class Landing extends Component {
         />
         </a>
         </div>
-        <div class="uk-width-1-6"style={{"position":"absolute", "borderColor":"0, 0, 0, 0", "marginTop":"230px", "marginLeft":"840px"}}>
+        <div class="uk-width-1-6"style={{"borderColor":"0, 0, 0, 0", "marginTop":"230px"}}>
         <a href='#tech'>
         <ReactVivus
           id="skills"
@@ -64,7 +64,7 @@ class Landing extends Component {
         />
         </a>
         </div>
-        <div class="uk-width-1-6"style={{"position":"absolute", "borderColor":"0, 0, 0, 0", "marginTop":"230px", "marginLeft":"1080px"}}>
+        <div class="uk-width-1-6"style={{"borderColor":"0, 0, 0, 0", "marginTop":"230px"}}>
         <ReactVivus
           id="right"
           option={{
