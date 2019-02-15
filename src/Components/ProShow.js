@@ -12,7 +12,7 @@ class ProShow extends Component {
   render() {
     return (
 
-        <div style={{"width":"100%","margin":"auto"}}>
+        <div class="uk-flex uk-flex-center" style={{"width":"100%","margin":"auto"}}>
         <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
 
         {/*<ul class="uk-slideshow-items">
