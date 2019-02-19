@@ -42,6 +42,7 @@ class Profile extends Component {
           <div class="uk-width-1-2" style={{"height":"100%","position":"relative"}}>
             <div class="uk-card uk-card-default uk-card-body uk-box-shadow-medium" style={{"zIndex":"1","position":"absolute","width":"50%","height":"100vh","backgroundColor":"#84a3ff"}}></div>
               <div
+              id="blurb"
                 style={{"zIndex":"1","width":"70%","position":"absolute","box-shadow":"0 0px 0px rgba(0,0,0,0)","marginLeft":"10%", "marginTop":"30%"}}
                 class="uk-card uk-card-default uk-card-body uk-box-shadow-medium uk-text-center"
               >

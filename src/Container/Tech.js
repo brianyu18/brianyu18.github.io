@@ -27,7 +27,7 @@ class Tech extends Component {
               option={{
                 file: technology,
               }}
-              style={{ height: '50%', width:"30%", margin:"0 auto", paddingTop:"100px"}}
+              style={{ height: '50%', width:"30%", margin:"0 auto", paddingTop:"6%"}}
               callback={console.log}
             />
           </div>
@@ -37,7 +37,7 @@ class Tech extends Component {
               option={{
                 file: all,
               }}
-              style={{ height: '80%%', width: '80%', margin: "0 auto", position:"relative", top:"-60px"}}
+              style={{ height: '80%%', width: '80%', margin: "0 auto", position:"relative"}}
               callback={console.log}
             />
           </div>
