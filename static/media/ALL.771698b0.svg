@@ -3,8 +3,21 @@
     <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+      <style type="text/css">
+        @font-face {
+          font-family: Ubuntu;
+          src: url('https://fonts.googleapis.com/css?family=Ubuntu:400,500');
+        }
+
+        #TECH text, #LANGUAGES text {
+          font-family: Ubuntu;
+          font-weight: 500;
+        }
+      </style>
+    </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="TECH" transform="translate(98.000000, -15.000000)">
+        <g id="TECH" transform="translate(98.000000, -25.000000)">
             <g id="Group-5" transform="translate(45.000000, 41.000000)">
                 <g id="Skill---5" transform="translate(151.383784, 31.083729)"></g>
                 <g id="Skill---4" transform="translate(96.621622, 0.154762)" fill="#FFFFFF" font-family="Ubuntu-Medium, Ubuntu Medium" font-size="8" font-weight="normal" line-spacing="10">
@@ -84,7 +97,7 @@
                 <polyline id="Path" points="2.1137105 4.85685072 6.65251161 0.634413371 11.1913127 4.85685072"></polyline>
             </g>
         </g>
-        <g id="LANGUAGES" transform="translate(16.000000, -14.000000)" fill="#FFFFFF">
+        <g id="LANGUAGES" transform="translate(16.000000, -24.000000)" fill="#FFFFFF">
             <g id="Ref--1" transform="translate(29.000000, 39.000000)" font-family="Ubuntu-Medium, Ubuntu Medium" font-size="8" font-weight="normal">
                 <text id="JavaScript">
                     <tspan x="0" y="9">JavaScript</tspan>
