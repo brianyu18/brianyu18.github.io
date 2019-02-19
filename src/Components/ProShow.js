@@ -12,7 +12,7 @@ class ProShow extends Component {
   render() {
     return (
 
-        <div class="uk-flex uk-flex-center" style={{"width":"100%","margin":"auto"}}>
+        <div  style={{"width":"100%","margin":"auto"}}>
         <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
 
         {/*<ul class="uk-slideshow-items">
@@ -55,36 +55,36 @@ class ProShow extends Component {
                       </div>
                     </div>
                 </li>
-                <li class="uk-width-3-4">
+                <li class="uk-width-3-4 ">
                     <div class="uk-cover-container uk-transition-toggle">
-                        <img src="pictures/whitepaper.gif" alt="" data-uk-cover/>
-                        <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
-                            <h3 class="uk-margin-remove">WHITEPAPER</h3>
-                        </div>
-                    </div>
-                </li>
-                <li class="uk-width-3-4">
-                    <div class="uk-cover-container uk-transition-toggle">
-                      <img src="pictures/beatxmaniax.gif" alt="" data-uk-cover/>
-                      <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
-                          <h3 class="uk-margin-remove">BEATXMANIAX</h3>
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/FsRSWsnIZtc?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen uk-cover></iframe>
+                      <div class="uk-overlay uk-overlay-primary uk-position-top uk-text-center uk-transition-slide-top">
+                        <h3 class="uk-margin-remove">WHITEPAPER</h3>
                       </div>
                     </div>
                 </li>
-                <li class="uk-width-3-4">
+                <li class="uk-width-3-4 ">
                     <div class="uk-cover-container uk-transition-toggle">
-                        <img src="pictures/ESCPE.gif" alt="" data-uk-cover/>
-                        <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
-                            <h3 class="uk-margin-remove">ESCPE</h3>
-                        </div>
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/zLg85UkP-qQ?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen uk-cover></iframe>
+                      <div class="uk-overlay uk-overlay-primary uk-position-top uk-text-center uk-transition-slide-top">
+                        <h3 class="uk-margin-remove">BEATxMANIAx</h3>
                       </div>
+                    </div>
+                </li>
+                <li class="uk-width-3-4 ">
+                    <div class="uk-cover-container uk-transition-toggle">
+                      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1-hvckCd4kM?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen uk-cover></iframe>
+                      <div class="uk-overlay uk-overlay-primary uk-position-top uk-text-center uk-transition-slide-top">
+                        <h3 class="uk-margin-remove">ESCAPE</h3>
+                      </div>
+                    </div>
                 </li>
             </ul>
 
             <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
 
-            <a data-uk-icon="chevron-left" class="uk-slidenav-large uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
-            <a data-uk-icon="chevron-right" class="uk-slidenav-large uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
+            <a style={{"textShadow": "0 0 10px black", "color":"black"}} data-uk-icon="chevron-left" class="uk-slidenav-large uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+            <a style={{"textShadow": "0 0 10px black", "color":"black"}} data-uk-icon="chevron-right" class="uk-slidenav-large uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
 
 
           </div>

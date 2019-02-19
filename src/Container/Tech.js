@@ -20,7 +20,7 @@ class Tech extends Component {
   render() {
     return (
 
-        <div style={{"width":"100%","height":"100vh","backgroundColor":"#152239", "textAlign":"center"}}>
+        <div style={{"width":"100%","height":"100%","backgroundColor":"#152239", "textAlign":"center"}}>
           <div>
             <ReactVivus
               id="technology"
