@@ -1,0 +1,18 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>PROFILE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PROFILE">
+            <path id="Rectangle-2" fill="#152239" width="400" height="400" d="M0 0 L400 0 L400 400 L0 400 Z" class="BHtAvwWq_0"></path>
+            <path id="Oval" stroke="#FFFFFF" stroke-width="10" fill="#6D97B9" d="M100,200A100,100 0,1,1 300,200A100,100 0,1,1 100,200" class="BHtAvwWq_1"></path>
+            <path id="Oval" stroke="#213E72" stroke-width="10" fill="#6E98BA" d="M117,200A83,83 0,1,1 283,200A83,83 0,1,1 117,200" class="BHtAvwWq_2"></path>
+            <path id="Oval" stroke="#213E72" stroke-width="10" fill="#FFFFFF" d="M140,200A60,60 0,1,1 260,200A60,60 0,1,1 140,200" class="BHtAvwWq_3"></path>
+            <path d="M0,200 C3.9800995,200 23.880597,200 59.7014925,200 C95.5223881,200 133.333333,200 173.134328,200 L226.865672,200 L286.567164,200 L340.298507,200 L400,200" id="Path" stroke="#FFFFFF" stroke-width="10" fill="#FFFFFF" class="BHtAvwWq_4"></path>
+            <text id="ABOUT-ME" font-family="Phosphate-Inline, Phosphate" font-size="45" font-weight="normal" letter-spacing="0.6" fill="#FFFFFF">
+                <tspan x="98.335" y="67">ABOUT ME</tspan>
+            </text>
+        </g>
+    </g>
+<style data-made-with="vivus-instant">.BHtAvwWq_0{stroke-dasharray:1600 1602;stroke-dashoffset:1601;animation:BHtAvwWq_draw_0 5600ms ease 0ms infinite,BHtAvwWq_fade 5600ms linear 0ms infinite;}.BHtAvwWq_1{stroke-dasharray:629 631;stroke-dashoffset:630;animation:BHtAvwWq_draw_1 5600ms ease 0ms infinite,BHtAvwWq_fade 5600ms linear 0ms infinite;}.BHtAvwWq_2{stroke-dasharray:522 524;stroke-dashoffset:523;animation:BHtAvwWq_draw_2 5600ms ease 0ms infinite,BHtAvwWq_fade 5600ms linear 0ms infinite;}.BHtAvwWq_3{stroke-dasharray:378 380;stroke-dashoffset:379;animation:BHtAvwWq_draw_3 5600ms ease 0ms infinite,BHtAvwWq_fade 5600ms linear 0ms infinite;}.BHtAvwWq_4{stroke-dasharray:400 402;stroke-dashoffset:401;animation:BHtAvwWq_draw_4 5600ms ease 0ms infinite,BHtAvwWq_fade 5600ms linear 0ms infinite;}@keyframes BHtAvwWq_draw{100%{stroke-dashoffset:0;}}@keyframes BHtAvwWq_fade{0%{stroke-opacity:1;}92.85714285714286%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes BHtAvwWq_draw_0{7.142857142857142%{stroke-dashoffset: 1601}42.857142857142854%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BHtAvwWq_draw_1{11.607142857142858%{stroke-dashoffset: 630}47.32142857142857%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BHtAvwWq_draw_2{16.071428571428573%{stroke-dashoffset: 523}51.78571428571429%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BHtAvwWq_draw_3{20.535714285714285%{stroke-dashoffset: 379}56.25%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes BHtAvwWq_draw_4{25%{stroke-dashoffset: 401}60.71428571428571%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
