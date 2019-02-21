@@ -49,7 +49,7 @@ class Profile extends Component {
                 <div>
                   <h3 class="uk-card-title">Hi! I'm Brian...</h3>
                   <p>I am a Full Stack Developer with a focus on innovative solutions to design and UX.</p>
-                  <p>My profound appreciation for design and finite details is what drove me to development. Prior to finding my passion in CS - I was the Co-founder of a architectural and contracting company,
+                  <p>My profound appreciation for design and finite details is what drove me to development. Prior to finding my passion in CS - I was the Co-founder of an architecture and contracting company,
                   designing and building in the Bay Area; as well as Project Manager in Finance overseeing web development at a corporate bank.
                   </p>
                   <p>Outside of coding, my interests include: Culinary Arts, Design, Architecture</p>
